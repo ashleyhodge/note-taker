@@ -1,12 +1,20 @@
 {
-    "notes": [
-        {
-            "title":"Ashley",
-            "text":"Pick up laundry"
-        },
-        {
-            "title": "Daniel",
-            "text": "Finish homework"
-        }
-    ]
+  "notes": [
+    {
+      "title": "Ashley",
+      "text": "Pick up laundry"
+    },
+    {
+      "title": "Daniel",
+      "text": "Finish homework"
+    },
+    {
+      "title": "Christopher",
+      "text": "Take out trash"
+    },
+    {
+      "title": "Christopher",
+      "text": "Take out trash"
+    }
+  ]
 }
