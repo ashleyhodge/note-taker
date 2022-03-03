@@ -30,6 +30,8 @@ app.use(express.urlencoded({ extended: true}));
 //parse incoming json data
 app.use(express.json());
 
+app.use(express.static('__dirname'));
+
 app.get('/api/notes', (req, res) => {
     res.json(notes);
 });
